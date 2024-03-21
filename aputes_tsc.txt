@@ -1,0 +1,5 @@
+llave de compilacion typescript
+tsc --watch script.ts --outfile script.js
+
+* compilacion con la configuracion preestablecida
+tsc -w
